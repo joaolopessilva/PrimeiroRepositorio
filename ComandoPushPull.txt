@@ -1,0 +1,3 @@
+push: siguinifica empurrar,corresponde ao aro de enviar o repositorio local para o remoto
+
+pull: puxar, corresponde o contrarrio do push, 
